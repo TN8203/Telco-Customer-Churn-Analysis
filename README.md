@@ -1,9 +1,5 @@
 # Telco-Customer-Churn-Analysis
 Telco Customer Churn Analysis 
-## Project Overview:
-
-An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.
-
 
 ## About Dataset:
 
